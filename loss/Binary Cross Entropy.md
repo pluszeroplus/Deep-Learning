@@ -105,7 +105,15 @@ $$
 
 
 
+## 参考
 
+BCE 大体的介绍来自这里:
+
+[Understanding binary cross-entropy / log loss: a visual explanation](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
+
+其中Entropy 的介绍来自这本书
+
+Data Science for Business -  what you nedd to know about data mining and data-analytic thinking 中介绍决策树的章节
 
 
 
