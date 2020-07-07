@@ -12,3 +12,6 @@ Hi! 大家好，目前我正在学习机器学习，尤其是图片处理方向�
 ### Faster RCNN
 * [ROI Pooling 是什么](https://github.com/pluszeroplus/Deep-Learning/blob/master/Faster%20RCNN/ROI%20pooling.pdf)
 * [RPN 是什么](https://github.com/pluszeroplus/Deep-Learning/blob/master/Faster%20RCNN/RPN.pdf)
+
+### tricks
+* [WBF 是什么](https://github.com/pluszeroplus/Deep-Learning/blob/master/tricks/WBF.ipynb)
