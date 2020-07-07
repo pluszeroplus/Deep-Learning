@@ -12,7 +12,7 @@ Entropy 中文是熵(这个中文并没有什么用， 简单来说是用来衡�
 
 当然就这样说纯，很纯，非常的不纯是不够的，我们需要定性的来表示到底有多存，于是就有这个公式:
 $$
-entropy = - d_{triangle} log(p_{triangle}) - d_{circle} log(p_{circle}) 
+entropy = - d_{triangle} log(p_{triangle}) - d_{circle} log(p_{circle})
 $$
 其中 $d_{triangle}$ 表示在这个类中三角形的分布，$p_{triangle}$表示三角形出现的概率，图片A中，三角形的的分布为$100\%$，概率也是100%，简单来说就是一样的。
 
