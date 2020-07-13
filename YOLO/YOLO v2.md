@@ -21,3 +21,12 @@ $$
 ![pass through](images/pass through.jpg)
 
 * 使用Multi-Scale training 采用不同大小的图片（长宽为32的整倍数）进行训练，大概每隔10个epoches随机选择一种输入图片大小
+
+
+
+### reference
+
+目标检测|YOLOv2原理与实现(附YOLOv3)
+
+https://zhuanlan.zhihu.com/p/35325884
+
