@@ -27,3 +27,4 @@ Hi! 大家好，目前我正在学习机器学习，尤其是图片处理方向�
 ### math
 * [scatter matrix 散布矩阵是什么](https://github.com/pluszeroplus/Deep-Learning/blob/master/math/Scatter_matirx.ipynb)
 * [convariance 协方差矩阵是什么](https://github.com/pluszeroplus/Deep-Learning/blob/master/math/Covariance%20Matrix.pdf)
+* [ROC and AUC](https://github.com/pluszeroplus/Deep-Learning/blob/master/math/ROC%20and%20AUC.pdf)
